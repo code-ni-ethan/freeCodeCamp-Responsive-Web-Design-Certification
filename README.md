@@ -1,5 +1,5 @@
 <h1 align="center">Hi, ako si Ethan</h1>
-<p>This is my journey in Responsive Web Design Certification!</p>
+<p align="center">This is my journey in Responsive Web Design Certification!</p>
 <h3 align="center">18-year old BSIT sophomore student, Altar Server, ex-Agnostic</h3>
 
 - 🌱 I’m currently learning **Java, HTML, CSS, and Pythno**
