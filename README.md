@@ -1,28 +1,28 @@
-# Ethan's Journey in Response Web Design Certification
+<h1 align="center">Hi, ako si Ethan</h1>
+<h3 align="center">18-year old BSIT sophomore student, Altar Server, ex-Agnostic</h3>
 
-### Greetings!
-This is a documentation repository for the purpose of documenting my journey with the  `freeCodeCamp.org` course called "Response Web Design Certification". 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=code-ni-ethan&label=Profile%20views&color=0e75b6&style=flat" alt="code-ni-ethan" /> </p>
 
-I started on May 7, 2026.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-ni-ethan" alt="code-ni-ethan" /></a> </p>
 
-# Day 1: Basics
+- 🌱 I’m currently learning **Java, HTML, CSS, and Pythno**
 
-> Build a Curriculum Outline
+- 👨‍💻 All of my projects are available at [https://github.com/code-ni-ethan](https://github.com/code-ni-ethan)
 
-> Debug Camperbot's Profile Page
+- 💬 Ask me about **C++**
 
-> Understanding HTML Attributes
+- 📫 How to reach me **ethansigasigtechbusiness@gmail.com**
 
-> Debug a Pet Adoption Page
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ethan-sigasig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ethan-sigasig" height="30" width="40" /></a>
+<a href="https://fb.com/ethansigasig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ethansigasig" height="30" width="40" /></a>
+<a href="https://instagram.com/than.img" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="than.img" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/tansisig.mp4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tansisig.mp4" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ethanisleet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ethanisleet" height="30" width="40" /></a>
+</p>
 
-> Understanding the HTML Boilerplate
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-> Build a Cat Photo App
-
-> Build a Recipe Page
-
-**HTML Fundamentals**
-
-> What are Div Elements and When Should You Use Them?
-
-> What Are IDs and Classes, and When Should You Use Them?
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-ni-ethan&show_icons=true&locale=en&layout=compact" alt="code-ni-ethan" /></p>
