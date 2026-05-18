@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Survey Form</title>
+  </head>
+
+  <body>
+
+  <h1 id="title">Ethan's Service Survey</h1>
+  <p id="description">Thanks for allowing me to serve you with my services. This form helps me receive your feedbacks and understand what I need to improve to make my services better.</p>
+
+    <form id="survey-form">
+      <p><label id="name-label">Full Name:
+      <input 
+      required 
+      id="name" 
+      type="text"
+      placeholder="Ethan John"
+      />
+      </label>
+      </p>
+      <p>
+      <label id="email-label">Email Address:
+      <input 
+      required 
+      id="email"
+      type="email"
+      placeholder="sigasig@yahoo.com"
+      />
+      </label>
+      </p>
+      <p>
+      <label id="number-label">Age:
+      <input 
+      required 
+      id="number" 
+      type="number"
+      min="18"
+      max="70"
+      placeholder="Age"
+      />
+      </label>
+      </p>
+
+    <p>How did you learn about my services?</p>
+
+    <select id="dropdown">
+      <option>Google</option>
+      <option>YouTube</option>
+      <option>TikTok</option>
+      <option>Faceobok</option>
+      <option>Through a friend</option>
+      </select>
+
+      <p>Would you recommend me to a friend?</p>
+      <input type="radio" 
+      value="yes-option" 
+      name="friend-reco">Yes
+      <input type="radio" 
+      value="no-option" 
+      name="friend-reco">No
+
+      <p>Which fields do you think I need to improve on? (Check all that apply)</p>
+
+      <input 
+      type="checkbox" 
+      value="communications">
+      Communications
+      </input>
+      <input 
+      type="checkbox" 
+      value="visualizations">
+      Visualizations
+      </input>
+      <input 
+      type="checkbox" 
+      value="project-execution">
+      Project Execution
+      </input>
+
+<p>Any other comments or suggestions</p>
+<textarea placeholder="Enter comments here..."></textarea>
+
+<p><button type="submit" id="submit">Submit Form</button></p>
+
+      </form>
+
+  </body>
+</html>
